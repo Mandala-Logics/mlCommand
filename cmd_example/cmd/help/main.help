@@ -1,0 +1,6 @@
+This would be the help dialouge for the main command...
+
+use 'multiply [-t] number1 number2' to multiply two numbers
+use 'divide [-t] number1 number2' to divide two numbers
+
+You can use the switch -t or --truncate in either case to truncate the answer to an integer.
