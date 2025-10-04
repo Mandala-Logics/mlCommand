@@ -91,3 +91,9 @@ Name: Symbolic name, used to retrieve values in code
 
 This project is free for personal and educational use.
 If you intend to use this library in a commercial project, please contact me for a commercial license.
+
+## Other Work
+
+Don't forget to check out our other creative work at operalimina.co.uk
+
+Buy us coffee: https://buymeacoffee.com/operalimina
